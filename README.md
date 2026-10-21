@@ -1,26 +1,19 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Your Name
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:25253A,100:686783&height=200&section=header&text=ASHWINI%20DAWARE&fontSize=40&fontColor=00FFD1&fontAlignY=40" width="100%" />
 
-### Data Analyst | Machine Learning Enthusiast
+### Data Analyst | Python | SQL | Excel | Power BI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=32&fontColor=00FFD1&fontAlignY=40" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00DCCB&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Building+Interactive+Dashboards;Exploring+Machine+Learning;Business+Insights+%26+Data+Storytelling" alt="Typing animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00FFD1&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Exploring+Machine+Learning;Building+Interactive+Dashboards;Learning+Something+New+Every+Day" alt="Typing animation" />
+📊 Data Analytics • 🤖 Machine Learning • 📈 Business Intelligence
 
-<br/>
-
-📊 Data Analytics | 🤖 Machine Learning | 🐍 Python
-
-📍 India
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<a href="https://github.com/dawareashwini">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+
+<!-- Add your LinkedIn URL to create a LinkedIn button -->
 
 </div>
 
@@ -28,56 +21,56 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 I have completed a Data Analytics course.
-- 📊 Interested in data analysis, visualization, and business insights.
-- 🤖 Building Machine Learning projects to solve real-world problems.
-- 🐍 Working with Python, SQL, Excel, and data visualization tools.
-- 🚀 Continuously learning and improving my analytical skills.
+Hi! I'm Ashwini Daware, an aspiring Data Analyst passionate about transforming raw data into meaningful insights and business decisions.
 
-## 🛠️ Skills & Technologies
+- 📊 Interested in data analysis and business intelligence.
+- 🐍 Working with Python, Pandas, and NumPy.
+- 🗃️ Practicing SQL for data querying and analysis.
+- 📈 Creating dashboards and reports using Excel and Power BI.
+- 🤖 Exploring Machine Learning and predictive analytics.
+- 💡 Interested in business insights and data storytelling.
 
-### Programming & Data Analysis
+## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<div align="center">
 
-### Data Visualization & BI
+<img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL"/>
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+<br/>
 
-### Machine Learning
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
+</div>
 
 ## 🚀 Featured Projects
 
-### 1. Startup Failure Prediction
-A Machine Learning project that analyzes startup-related features to predict the likelihood of startup failure.
+### 📊 Food Delivery Financial Analytics Dashboard
+
+Analyzed food delivery financial data using Excel to explore performance, revenue trends, and business insights.
+
+**Tools:** Excel, Financial Analytics, Data Visualization
+
+🔗 [View Project](https://github.com/dawareashwini)
+
+### 🤖 Startup Failure Prediction
+
+A Machine Learning project that predicts the likelihood of startup failure using relevant startup data and predictive modeling.
 
 **Tools:** Python, Pandas, NumPy, Scikit-learn
 
-🔗 [View Project](https://github.com/YOUR-USERNAME/YOUR-STARTUP-REPO)
+🔗 [View Project](https://github.com/dawareashwini)
 
-### 2. Founder Burnout Prediction
-A Machine Learning project focused on predicting founder burnout using relevant data and model-based analysis.
+### 🧠 Founder Burnout Prediction
+
+A Machine Learning project focused on predicting founder burnout from relevant features in the dataset.
 
 **Tools:** Python, Pandas, Scikit-learn
 
-🔗 [View Project](https://github.com/YOUR-USERNAME/YOUR-BURNOUT-REPO)
-
-### 3. Food Delivery Financial Analytics Dashboard
-An analytics project using Excel to explore food delivery financial performance, identify trends, and generate actionable business insights.
-
-**Tools:** Excel, Data Analysis, Financial Analytics, Data Visualization
-
-🔗 [View Project](https://github.com/YOUR-USERNAME/YOUR-FOOD-DELIVERY-REPO)
+🔗 [View Project](https://github.com/dawareashwini)
 
 ---
 
@@ -85,9 +78,9 @@ An analytics project using Excel to explore food delivery financial performance,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dawareashwini&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawareashwini&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 </div>
 
@@ -95,8 +88,8 @@ An analytics project using Excel to explore food delivery financial performance,
 
 <div align="center">
 
-### 💡 Turning Data into Decisions
+### ✨ Turning Data into Insights
 
-*Thanks for visiting my profile! Let's connect and grow together.*
+*Thanks for visiting my profile!*
 
 </div>
